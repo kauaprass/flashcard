@@ -1,31 +1,31 @@
 criaCartao(
     'Título 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'significado da palavra speed',
+    'velocidade'
 )
 
 criaCartao(
     'Título 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'significado da palavra yellow',
+    'amarelo'
 )
 
 criaCartao(
     'Título 3',
-    'Pergunta 3',
-    'Resposta 3'
+    'significado da palavra blue',
+    'azul'
 )
 
 criaCartao(
     'Título 4',
-    'Pergunta 4',
-    'Resposta 4'
+    'qual o segundo nome do professor',
+    'honorato'
 )
 
 criaCartao(
     'Título 5',
-    'Pergunta 5',
-    'Resposta 5'
+    'quem é o camisa 10 do real madrid?',
+    'modric'
 )
 
 criaCartao(
